@@ -63,6 +63,7 @@ body {
 /* Hero */
 .hero {
     margin-top: 155px;
+    overflow: hidden;
 }
 
 .hero_container {
@@ -113,6 +114,7 @@ body {
     display: flex;
     align-items: flex-end;
     gap: 17px;
+    padding-bottom: 2px;
 }
 
 .hero_social_item {
@@ -225,6 +227,7 @@ body {
 
 .about {
     padding-top: 90px;
+    overflow: hidden;
 }
 
 .about_container {
@@ -277,6 +280,7 @@ body {
 
 .tech {
     padding-top: 90px;
+    overflow: hidden;
 }
 
 .tech_container {
